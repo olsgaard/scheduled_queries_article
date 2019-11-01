@@ -1,0 +1,4 @@
+Copyright 2019 Mads Ølsgaard
+Copyright 2019 Computas Aps
+
+All rights reserved.
